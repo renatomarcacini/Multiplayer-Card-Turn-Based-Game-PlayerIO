@@ -1,0 +1,8 @@
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\MushroomsUnity3DExample.dll
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\MushroomsUnity3DExample.pdb
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\Game Code.csproj.AssemblyReference.cache
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\MushroomsUnity3DExample.dll
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\MushroomsUnity3DExample.pdb

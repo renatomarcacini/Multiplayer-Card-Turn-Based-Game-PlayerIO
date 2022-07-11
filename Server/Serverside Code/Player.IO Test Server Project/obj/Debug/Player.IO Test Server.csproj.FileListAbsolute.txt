@@ -1,0 +1,12 @@
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.pdb
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\MushroomsUnity3DExample.dll
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO Development Server.exe
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\MushroomsUnity3DExample.pdb
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csproj.AssemblyReference.cache
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csproj.CoreCompileInputs.cache
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.csproj.CopyComplete
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Users\renat\Downloads\PlayerIO Server\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
